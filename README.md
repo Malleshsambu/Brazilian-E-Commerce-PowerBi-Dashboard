@@ -1,52 +1,60 @@
-# 📊 Brazil E-Commerce Analysis — Power BI Dashboard  
-### Capstone Project | Brazilian Olist E-Commerce Dataset (2016–2018)
+# 🎯 Brazil E-Commerce Analysis — Power BI Dashboard
 
-This repository contains an interactive **Power BI dashboard** built using the **Brazilian E-Commerce Public Dataset** provided by Olist.  
-The goal of this project is to uncover actionable insights about **customer behavior**, **order patterns**, **sales trends**, **logistics performance**, and **review scores** using rich visual analytics.
+A data-driven analytical dashboard built using the **Brazilian Olist E-Commerce Dataset (2016–2018)** to uncover insights about customer behavior, sales performance, product trends, delivery efficiency, and payment patterns.
 
 ---
 
-## 📁 **Project Files**
-- `Brazil_Ecommerce_Dashboard.pbix` — Main Power BI Dashboard  
-- `Capstone Project 5 – Brazil E-Commerce Analysis.docx` — Detailed documentation of the dataset and objectives  
-- `README.md` — Project overview and usage instructions  
+## 📝 Short Description
+This project presents an interactive **Power BI dashboard** that analyzes Brazil’s large-scale e-commerce data.  
+It includes insights on **orders, customers, reviews, payments, shipment delays, product categories**, and overall business performance.  
+Designed as a capstone project, it focuses on extracting meaningful trends for data-driven decision-making.
 
 ---
 
-## 📦 **Dataset Information**
-**Source:** Olist Brazilian E-Commerce Dataset  
-**Link:** (Kaggle dataset link mentioned in project document)  
-
-The dataset includes:
-- 100,000+ orders  
-- Multiple tables: orders, items, sellers, payments, geolocation, reviews, customers  
-- Time range: **2016–2018**  
-
----
-
-## 🎯 **Objectives of the Dashboard**
-The dashboard explores:
-- 📦 **Order & Shipment Patterns**  
-- 🧍 **Customer Demographics & Buying Behavior**  
-- 💳 **Payment Method Trends**  
-- ⭐ **Customer Review Insights**  
-- 🛒 **Product Category Sales**  
-- 📈 **Sales Trends (Daily / Monthly / Yearly)**  
-- 🚚 **Logistics & Delivery Performance**  
+## 🧰 Tech Stack
+- 📊 **Power BI Desktop** — Dashboard creation & data modeling  
+- 🧮 **DAX (Data Analysis Expressions)** — Measures & calculations  
+- 🔄 **Power Query (M Language)** — Data cleaning & transformation  
+- 🗄️ **SQL Concepts** — Query logic & data understanding  
+- 🧹 **ETL Techniques** — Extract, transform, load processes  
+- 📁 **Kaggle Dataset** — Olist Brazilian E-commerce dataset  
+- 🌐 **GitHub** — Version control & project hosting  
 
 ---
 
-## 🔍 **Key Insights Identified**
-- Top-selling product categories and customer segments  
-- Delivery performance vs. expected delivery dates  
-- Most preferred payment types  
-- Geographical distribution of customers  
-- Review score distribution & factors affecting customer sentiment  
-
-*(You can update this section with actual insights from your dashboard.)*
+## 📁 Project Files
+- `Brazil_Ecommerce_Dashboard.pbix` — Power BI dashboard  
+- `Capstone Project 5 – Brazil E-Commerce Analysis.docx` — Project documentation  
+- `images/` — Dashboard screenshots  
+- `README.md` — Project overview  
 
 ---
 
-## 📊 **Dashboard Preview**
-> Add screenshots of your dashboard here  
-Example:
+## 🎯 Core Objectives
+- Analyze customer ordering patterns  
+- Identify high-performing product categories  
+- Understand payment method preferences  
+- Evaluate delivery performance vs expected dates  
+- Study review patterns & customer satisfaction  
+- Explore daily, weekly, monthly, and yearly sales trends  
+
+---
+
+## 📈 Key Insights (High-Level)
+- Credit card is the most commonly used payment method  
+- Delivery delays impact customer review ratings  
+- Certain product categories significantly dominate sales  
+- Customer orders show seasonal and monthly variations  
+
+---
+
+## 🚀 How to Use
+1. Download or clone this repository  
+2. Open the `.pbix` dashboard using **Power BI Desktop**  
+3. Interact with KPIs, slicers, and visuals to explore insights  
+
+---
+
+## 👨‍💻 Author
+**Mallesh Sambu**
+
