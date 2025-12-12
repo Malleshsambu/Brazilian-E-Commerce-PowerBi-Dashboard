@@ -24,7 +24,6 @@ Designed as a capstone project, it focuses on extracting meaningful trends for d
 
 ## 📁 Project Files
 - `Brazil_Ecommerce_Dashboard.pbix` — Power BI dashboard  
-- `Capstone Project 5 – Brazil E-Commerce Analysis.docx` — Project documentation  
 - `images/` — Dashboard screenshots  
 - `README.md` — Project overview  
 
