@@ -54,6 +54,9 @@ Designed as a capstone project, it focuses on extracting meaningful trends for d
 
 ---
 
+![Dashboard Screenshot](https://github.com/Malleshsambu/Brazilian-E-Commerce-PowerBi-Dashboard/blob/af89bfdab669b737d0c328aff5d664f10f18550b/Images/Screenshot%202025-12-12%20145736.png)
+
+---
 ## 👨‍💻 Author
 **Mallesh Sambu**
 
